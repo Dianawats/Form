@@ -1,0 +1,36 @@
+body{
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+/* #square {
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+  } */
+
+.signup-main {
+    width:25%;
+    margin: 100px auto;
+    border: 1px solid #ddd;
+    min-height: 100px;
+    padding: 20px;
+    border-radius: 2px;
+    background: #fff;
+}
+
+.center-50 {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+
